@@ -1,1 +1,20 @@
-# FULL-PROMPT-ARCHIVE
+Theory
+https://cookbook.openai.com/examples/gpt-5/gpt-5-1_prompting_guide
+https://github.com/openai/openai-cookbook/blob/main/examples/Orchestrating_agents.ipynb
+https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+https://ai.google.dev/gemini-api/docs/prompting-strategies
+https://cookbook.openai.com/examples/gpt4-1_prompting_guide
+https://cookbook.openai.com/examples/gpt-5/gpt-5-1_prompting_guide
+https://platform.openai.com/docs/guides/prompt-engineering
+https://anthropic.com/engineering/effective-context-engineering-for-ai-agents
+https://learnprompting.org/docs/advanced/zero_shot/role_prompting
+https://promptingguide.ai/introduction/examples
+https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview
+https://www.promptingguide.ai/ru
+
+Examples
+https://web.meetcleo.com/blog/meet-cleo-the-ultimate-free-budget-app
+https://platform.claude.com/docs/en/release-notes/system-prompts
+https://github.com/asgeirtj/system_prompts_leaks
+https://jexyla.com/cleo-ai-prompt-engineering-case-study
+https://web.meetcleo.com/blog/designing-internal-tools-ai-generated-chats
